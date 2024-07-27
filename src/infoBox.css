@@ -1,0 +1,9 @@
+.InfoBox{
+border-radius:20px;
+border:2px solid rgba(0, 0, 0, 0.432);
+padding-left:20px;
+padding-right:20px;
+}
+.InfoBox h1{
+    font-size: 25px;
+}
