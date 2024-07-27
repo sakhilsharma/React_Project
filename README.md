@@ -10,4 +10,6 @@ Currently, two official plugins are available:
 =======
 # React_Project
 This is a Weather app 
+![Screenshot 2024-07-27 223119](https://github.com/user-attachments/assets/2754e1c9-18d7-478a-ae7a-7f74f4ee6970)
+
 >>>>>>> c87e40c9e2f9681558483e1d0cb5fbaeb789b0db
